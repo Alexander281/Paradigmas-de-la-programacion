@@ -1,0 +1,14 @@
+                                             Paradigmas de Programacion
+Un paradigma de programacion es un estilo de desarollo de programas, es decir un modelo para resolver problemas
+computacionales. Los lenguajes de programacion necesariamente, se encuadran en uno o varios paradigmas a la vez a partir 
+de tipos de ordenes que permiten implementar algo que tienen su relacion directa con su sintaxis.
+Principales paradigmas de programacion
+Imperativo
+Los programas se componen de un conjunto de sentencias que cambian su estado. Son secuencias de comandos que ordenan
+acciones a la computadora. Al no tener ninguna declaracion en absoluto, basandose puramente en comandos, incluso hasta el
+punto de hacer que los IF y ELSE comandos independientes el uno del otro, conectados solo por una variable intriseca
+denominada test.COBOL y BASIC eran dos intentos de hacer sintaxis de programacion se parecen mas a ingles.
+Caracteristicas
+# Describe como debe realizarse el calculo, no el porque.
+# La sentencia principal es la asignacion
+# Las celdas de memoria que contienen datos, puede ser modificadas y representan el estado de programa.
