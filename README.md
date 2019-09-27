@@ -1,17 +1,17 @@
-# Paradigmas-de-la-programacion
+# Paradigmas-de-la-programación
 trabajo grupal de consulta
 
-# teroria 
+# teoría
 fundamentacion teorica para realizar diferentes tipos de programacion 
-# practica 
+# práctica
 ejercicios  que realizamos en 
+en paradigma funcional 
+paradigma orientada en objetos 
 1. lenguaje c 
 2. java
 3. fortra 
 #
 # elementos encontrados en POO
-*
-objetos
-
+*objetos
 * clases 
 * mensajes 
