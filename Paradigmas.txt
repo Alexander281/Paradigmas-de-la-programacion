@@ -47,3 +47,51 @@ Aplicaciones del Paradigma Logico
 *desarrollo de aplicaciones de inteligencia artificial
 *prueba de teoremas de forma automatica
 *procesamiento de lenguaje natural 
+
+
+
+
+**************************************************************************************************************************
+Programación declarativa, en contraposición a la programación imperativa, es un paradigma de programación que está 
+basado en el desarrollo de programas especificando o "declarando" un conjunto de condiciones, proposiciones, afirmaciones,
+restricciones, ecuaciones o transformaciones que describen el problema y detallan su solución. La solución es obtenida 
+mediante mecanismos internos de control, sin especificar exactamente cómo encontrarla (tan solo se le indica a la 
+computadora qué es lo que se desea obtener o qué es lo que se está buscando).
+No existen asignaciones destructivas, y las variables son utilizadas con transparencia referencial
+
+DIFERENCIA ENTRE IMPERATIVO Y DECLARATIVO
+En la programación imperativa se describe paso a paso un conjunto de instrucciones que deben ejecutarse para variar el esta
+do del programa y hallar la solución, es decir, un algoritmo en el que se describen los pasos necesarios para solucionar 
+el problema.
+En la programación declarativa las sentencias que se utilizan lo que hacen es describir el problema que se quiere 
+solucionar; se programa diciendo lo que se quiere resolver a nivel de usuario, pero no las instrucciones necesarias para 
+solucionarlo. Esto último se realizará mediante mecanismos internos de inferencia de información a partir de la 
+descripción realizada.
+
+TIPOS
+Existen varios tipos de lenguajes declarativos:
+
+Los lenguajes lógicos, como Prolog.
+Los lenguajes algebraicos, como Maude y SQL.
+Los lenguajes funcionales, como Haskell y Erlang.
+
+VENTAJAS 
+Se ha dicho que los lenguajes declarativos tienen la ventaja de ser razonados matemáticamente, lo que permite el uso de 
+mecanismos matemáticos para optimizar el rendimiento de los programas.
+Son fiables y expresivos.
+
+
+
+Describe que se debe cálcular, sin explicitar el cómo.
+z No existe un orden de evaluación prefijado.
+z Las variables son nombres asociados a definiciones, y
+una vez instanciadas son inmutables.
+z No existe sentencia de asignación.
+z El control de flujo suele estar asociado a la composición
+funcional, la recursividad y/o técnicas de reescritura y
+unificación.
+z Existen distintos grados de pureza en las variantes del paradigma.
+z Las principales variantes son los paradigmas funcional, lógico, la
+programación reactiva y los lenguajes descriptivos.
+
+***************************************************************************************************************************
