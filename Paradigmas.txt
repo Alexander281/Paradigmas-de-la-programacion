@@ -3,12 +3,47 @@ Un paradigma de programacion es un estilo de desarollo de programas, es decir un
 computacionales. Los lenguajes de programacion necesariamente, se encuadran en uno o varios paradigmas a la vez a partir 
 de tipos de ordenes que permiten implementar algo que tienen su relacion directa con su sintaxis.
 Principales paradigmas de programacion
+
 Imperativo
+
 Los programas se componen de un conjunto de sentencias que cambian su estado. Son secuencias de comandos que ordenan
 acciones a la computadora. Al no tener ninguna declaracion en absoluto, basandose puramente en comandos, incluso hasta el
 punto de hacer que los IF y ELSE comandos independientes el uno del otro, conectados solo por una variable intriseca
 denominada test.COBOL y BASIC eran dos intentos de hacer sintaxis de programacion se parecen mas a ingles.
+
 Caracteristicas
+
 # Describe como debe realizarse el calculo, no el porque.
 # La sentencia principal es la asignacion
 # Las celdas de memoria que contienen datos, puede ser modificadas y representan el estado de programa.
+
+                                                Paradigma logico
+la programacion logica estudia el uso de la logica para el plantiamiento de problemas y el control sobre las reglas de inferencia
+para alcanzar la solucion automatica.
+Logica(programador):hechos y reglas para representar conocimmiento
+control(interprete):deduccion logica para dar respuestas (soluciones)
+
+Caracteristicas del Paradigma Logico
+
+*ubicacion de terminos
+*mecanismos de inferencia automatica
+*recursion como estructuta de control basica
+*vision logica de la computacion
+
+Ventajas del Paradigma Logico.
+
+*relaciones multiproposito
+*sencillez en la implementacion de estructuras complejas
+*generacion rapida de prototipos e ideas complejas
+
+Desventajas del Paradigma Logico.
+
+*inferencia limitada por su base de conocimiento
+*en problemas reales es poco utilizado
+*existen muy pocas herramientas de depuracion,en su mayoria pocas efectivas.
+
+Aplicaciones del Paradigma Logico
+
+*desarrollo de aplicaciones de inteligencia artificial
+*prueba de teoremas de forma automatica
+*procesamiento de lenguaje natural 
