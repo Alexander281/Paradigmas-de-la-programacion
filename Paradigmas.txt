@@ -95,3 +95,52 @@ z Las principales variantes son los paradigmas funcional, lógico, la
 programación reactiva y los lenguajes descriptivos.
 
 ***************************************************************************************************************************
+PARADIGMA FUNCIONAL
+En el área de informatica nosotros llamamos programación funcional a un paradigma de pregramación declarativa que se basa en
+el uso de funciones matemáticas, en contraste con a programación impertiva, que enfatiza los cambios de estado mediante la 
+mutacion de variables.
+La progrmacion funcional surge de un sistema formla creado en el año 1930 y conocido como Calculo Lamda, que servía para la 
+investigación de as definiciones de funciones, su aplicación y su recurción. 
+
+Al momento de realizar la práctica podemos observar a diferencia entre el uso de una función empleada en la programación 
+imperativa y una función matemática, y es que en las funciones imperativas pueden existir cambios secundarios, como el cambio
+de valores en calculos ya realizados con anterioridad; dado este resultado se pude decir que la expresión sintáctica puede 
+darnos como resultado varios reltados diferentes en varios momentos durante la ejecución del programa.
+
+A lo largo del tiempo la programació funcional, especialmente aquellos puramente funcionales, han sido utilizados en su gran 
+mayoría para el desarrollo académico, y en muy pocas ocasiones en el ámbito industrial y comercial; no obstante en estos 
+últimos se han empleado lenguajes funcionales tales como Scheme, Erlang, Rust, Objetive, Calm, Scala, F# y Haskell; La 
+programación funcional también es utilizada en la industria a través de lenguajes de dominio específico como R (estadística), 
+Mathematica (matemáticas simbólicas), J y K (análisis financiero).
+ 
+Entre los lenguajes utilizados con más frecuecia tenemos: 
+SQL:  lenguaje de dominio específico utilizado en programación, diseñado para administrar, y recuperar información de sistemas 
+de gestión de bases de datos relacionales.
+LEX/YACC: es un programa para generar analizadores léxicos. Lex se utiliza comúnmente con el programa yacc que se utiliza para 
+generar análisis sintáctico. 
+Estos lenguajes utilizan algunos elementos de programacion funcional, en especial al momento de procesar valores mutables.
+
+La programación funcional también puede ser desarrollada en lenguajes que no están diseñados específicamente para la programación 
+funcional. En el caso de Perl, por ejemplo, que es un lenguaje de programación imperativo, existe un libro que describe como 
+aplicar conceptos de programación funcional. JavaScript, uno de los lenguajes más ampliamente utilizados en la actualidad, 
+también incorpora capacidades de programación funcional. Python también incorpora particularidades de los lenguajes funcionales 
+como listas de comprensión y funciones de tratamiento de listas como matemática de conjuntos. Java en su versión 8, está incorporando 
+la programación funcional, así como el uso de las expresiones lambda.
+
+CARACTERISTICAS: 
+-Los programas escritos en un lenguaje funcional están constituidos únicamente por definiciones de funciones, entendiendo estas no 
+como subprogramas clásicos de un lenguaje imperativo, sino como funciones puramente matemáticas, en las que se verifican ciertas 
+propiedades como la transparencia referencial (el significado de una expresión depende únicamente del significado de sus subexpresiones),
+ y por tanto, la carencia total de efectos colaterales. 
+-existencia de asignaciones de variables y la falta de construcciones estructuradas como la secuencia o la iteración (lo que obliga en la 
+práctica a que todas las repeticiones de instrucciones se lleven a cabo por medio de funciones recursivas).
+-Existen dos grandes categorías de lenguajes funcionales: los funcionales puros y los híbridos. La diferencia entre ambos estriba en que 
+los lenguajes funcionales híbridos son menos dogmáticos que los puros, al admitir conceptos tomados de los lenguajes imperativos, como las 
+secuencias de instrucciones o la asignación de variables. En contraste, los lenguajes funcionales puros tienen una mayor potencia expresiva, 
+conservando a la vez su transparencia referencial, algo que no se cumple siempre con un lenguaje funcional híbrido. 
+
+UTILIDAD:
+Como objetivo está la optención de lenguajes expresivos y "matemáticamente elgantes", en los cuales no se requiera volver al nivel de una 
+máquina de escribir para que estos puedan ejecutar el programa.La secuencia de computaciones llevadas a cabo por el programa se rige única 
+y exclusivamente por la reescritura de definiciones más amplias a otras cada vez más concretas y definidas, usando lo que se denominan 
+"definiciones dirigidas".
